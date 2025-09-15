@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <div className="w-full text-white font-bold text-center py-4 px-4" style={{ background: mainColor }}>
-          <p>"Get 50% off on all products – Limited Time Offer!"</p>
+          <p>&quot;Get 50% off on all products – Limited Time Offer!&quot;</p>
         </div>
         <Navbar />
         <main>
