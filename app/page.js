@@ -2,7 +2,6 @@ import CategoriesCarousel from "./components/Categories";
 import HeroSlider from "./components/HeroSlider";
 import ProductCarousel from "./components/ProductCarousel";
 import ProductGrid from "./components/ProductGrid";
-import SearchFilter from "./components/SearchFilter";
 
 
 export default function Home() {
